@@ -2,7 +2,7 @@
 The classic Minecraft Wasteland mod for 1.7.10
 
 ---
-
+Moved Repositories!!! Check my other repo https://github.com/70000hp/WastelandMod
 This is a forked repository of original wasteland 1.4.4 by **GiMoe**
 
 This mod is an updated version and maintained! Some new building designs were taken and modified from the [Huge Abandoned City map](http://www.planetminecraft.com/project/minecraft-cinematic---huge-abandoned-city/)
